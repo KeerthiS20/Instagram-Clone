@@ -1,0 +1,188 @@
+{
+  "posts": [
+    {
+      "id": "post1",
+      "username": "pragathi_01",
+      "profilePic": "src/assets/profile11.jpg",
+      "postImage": "src/assets/post1.webp",
+      "caption": "Chilling with the view 🌿✨",
+      "likes": 312,
+      "comments": [
+        {
+          "username": "nature_lover",
+          "text": "Such a peaceful vibe 🌄"
+        },
+        {
+          "username": "wanderlust_john",
+          "text": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-07-10T14:45:00Z"
+    },
+    {
+      "id": "post2",
+      "username": "zayan__90",
+      "profilePic": "src/assets/profile12.jpg",
+      "postImage": "src/assets/post2.jpg",
+      "caption": "Late night coding hustle 💻☕",
+      "likes": 547,
+      "comments": [
+        {
+          "username": "frontend_freak",
+          "text": "React mode activated 🔥"
+        }
+      ],
+      "timestamp": "2025-07-11T01:20:00Z"
+    },
+    {
+      "id": "post3",
+      "username": "travel_freak",
+      "profilePic": "src/assets/profile13.jpg",
+      "postImage": "src/assets/post3.jpg",
+      "caption": "New city, new stories 📸🌍",
+      "likes": 788,
+      "comments": [
+        {
+          "username": "globetrotter_me",
+          "text": "This is breathtaking!"
+        },
+        {
+          "username": "keerti_xx",
+          "text": "Drop location pls 😍"
+        }
+      ],
+      "timestamp": "2025-07-09T10:05:00Z"
+    }
+  ],
+  "profile": {
+    "id": "post1",
+    "username": "keerthi__20",
+    "profilePic": "src/assets/mainprof.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "sandy__xxa",
+      "profilePic": "src/assets/sandy.jpg"
+    },
+    {
+      "id": "102",
+      "username": "techie_raj",
+      "profilePic": "src/assets/techieraj.jpg"
+    },
+    {
+      "id": "103",
+      "username": "arun_98",
+      "profilePic": "src/assets/arun.avif"
+    },
+    {
+      "id": "104",
+      "username": "priya_42",
+      "profilePic": "src/assets/priya.jpg"
+    },
+    {
+      "id": "105",
+      "username": "heaven_ly",
+      "profilePic": "src/assets/travel.webp"
+    },
+    {
+      "id": "106",
+      "username": "_.shreya._",
+      "profilePic": "src/assets/shreya.avif"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "username": "pragathi_01",
+      "profilePic": "/assets/profile11.jpg",
+      "postImage": "/assets/story1.jpg"
+    },
+    {
+      "id": "2",
+      "username": "zayan__90",
+      "profilePic": "/assets/profile12.jpg",
+      "postImage": "/assets/story2.jpg"
+    },
+    {
+      "id": "3",
+      "username": "travel_freak",
+      "profilePic": "/assets/profile13.jpg",
+      "postImage": "/assets/story3.jpg"
+    },
+    {
+      "id": "4",
+      "username": "riya_crazy",
+      "profilePic": "/assets/riya.jpg",
+      "postImage": "/assets/story4.jpg"
+    },
+    {
+      "id": "5",
+      "username": "jeeva_speaks",
+      "profilePic": "/assets/jeeva.webp",
+      "postImage": "/assets/story5.webp"
+    },
+    {
+      "id": "6",
+      "username": "mandela_arts",
+      "profilePic": "/assets/mandela.jpg",
+      "postImage": "/assets/story6.jpg"
+    },
+    {
+      "id": "7",
+      "username": "foodie_Spot",
+      "profilePic": "/assets/food.webp",
+      "postImage": "/assets/story7.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "101",
+      "username": "sandy__xxa"
+    },
+    {
+      "id": "106",
+      "username": "_.shreya._"
+    },
+    {
+      "id": "101",
+      "username": "sandy__xxa"
+    },
+    {
+      "id": "101",
+      "username": "sandy__xxa"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "username": "jaya_dev",
+      "text": "Awesome shot!"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "username": "dinesh_007",
+      "text": "Nice clicks!"
+    },
+    {
+      "id": 3,
+      "postId": 2,
+      "username": "keerti_xx",
+      "text": "Love this!"
+    },
+    {
+      "id": "e138",
+      "postId": "post1",
+      "username": "keerti_xx",
+      "text": "nice"
+    },
+    {
+      "id": "2839",
+      "postId": "post1",
+      "username": "keerti_xx",
+      "text": "nice beautiful"
+    }
+  ]
+}
